@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="ubuntu@82.156.148.113:22" type="ssh/sftp" uuid="56e0b1e1-6448-4bb6-9e81-7b4ed97cb4fe">
+        <config>
+          <option name="projectRootOnTarget" value="/home/ubuntu/Default (Template) Project" />
+          <option name="serverName" value="ubuntu@82.156.148.113:22 key" />
+          <option name="useRsync" value="true" />
+        </config>
+      </target>
+    </targets>
+  </component>
+</project>
